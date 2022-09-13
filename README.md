@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sherlyn Cupid
-- 👀 I'm interested in being a Full-Stack Software Engineer.
-- 🌱 I’m currently learning Full Stack Web Development (HTML, CSS, JS, Node, React and MongoDB.) When I'm not coding, I love playing with our standard poodle Zoee and watching courtoom dramas and mysteries on tv.
+- 👀 I'm interested in being a Full-Stack Software Developer.
+- 🌱 I’m currently learning Full Stack Web Development (HTML, CSS, JS, Node, React and MongoDB.) When I'm not coding, I love playing with my dog poodle Zoee and watching courtoom dramas and mysteries on tv.
 - 💞️ I’m looking to network, collaborate on projects and grow as a Developer
 - 📫 How to reach me via Linkedin - https://www.linkedin.com/in/sherlyn-cupid-8b594614/  Twitter- @SherlynCupid 
 - Email: Codingwithcupid@gmail.com
